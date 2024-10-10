@@ -10,18 +10,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 We can choose date by clicking on the date input:
 
-![](./public/date.png)
+![](./frontend/public/date.png)
 
 When we fill error input, we will see:
 
-![](./public/error.png)
+![](./frontend/public/error.png)
 
 When we click on the update button, we will see:
 
-![](./public/update.png)
+![](./frontend/public/update.png)
 
 When we click on the close button, we will see:
 
-![](./public/close.png)
+![](./frontend/public/close.png)
 
 And we can click again to open it:
