@@ -25,3 +25,10 @@ You can view result at:
 ```bash
 http://localhost:3000/
 ```
+
+### Illustration
+![](./public/begin.png)
+
+![](./public/upload.png)
+
+![](./public/query.png)
