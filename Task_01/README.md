@@ -27,8 +27,8 @@ http://localhost:3000/
 ```
 
 ### Illustration
-![](./public/begin.png)
+![](./frontend/public/begin.png)
 
-![](./public/upload.png)
+![](./frontend/public/upload.png)
 
-![](./public/query.png)
+![](./frontend/public/query.png)
