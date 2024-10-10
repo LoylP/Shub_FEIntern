@@ -27,8 +27,8 @@ http://localhost:3000/
 ```
 
 ### Illustration
-![](./frontend/public/begin.png)
-
-![](./frontend/public/upload.png)
-
-![](./frontend/public/query.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./frontend/public/begin.png" style="width: 30%;" />
+    <img src="./frontend/public/upload.png" style="width: 30%;" />
+    <img src="./frontend/public/query.png" style="width: 30%;" />
+</div>
